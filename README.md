@@ -1,2 +1,2 @@
 # basic-ml
-Learning Basic ML using scikit
+Just Sruveying Data Science using scikit
